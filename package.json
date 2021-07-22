@@ -1,4 +1,7 @@
 {
+  "devDependencies": {
+    "cmake-js": "^6.2.1"
+  },
   "template": {
     "inheritFrom": [
     ],
