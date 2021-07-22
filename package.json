@@ -3,9 +3,10 @@
     "cmake-js": "^6.2.1"
   },
   "template": {
-    "inheritFrom": [
-    ],
-    "mergers": [
+    "inheritFrom": [],
+    "mergers": [],
+    "usedBy": [
+      "Kronos-Integration/service-systemd"
     ]
   }
 }
