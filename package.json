@@ -1,10 +1,8 @@
 {
   "devDependencies": {
-    "cmake-js": "^6.3.2"
+    "cmake-js": "^7.1.1"
   },
   "template": {
-    "inheritFrom": [],
-    "mergers": [],
     "usedBy": [
       "Kronos-Integration/service-systemd"
     ]
